@@ -12,7 +12,7 @@ Modern manufacturing inspection needs two things at once: traceable evidence (wh
 ## Project Objective
 The objective behind the project would be to create a simple, AI-integrated MATLAB program that can categorize manufactured metal plates in either "Pass" or "Fail". The intended use of the program would be to make it easy and accessible for workers in the manufacturing industry to be able to use algorithm-based programs that can analyze patterns of defects in products in seconds. A program that can easily classify and recognize patterns would save time and money for many manufacturing companies.
 ## Steps to Run Code/Models
-- Click the "Open MatLab Online" button on to launch in MATLAB online.
+- Click the "Open MatLab Online" button to launch in MATLAB online.
 <p>OR</p>
 
 - Clone repository and run ImageBasedDefectSystem.mlx after installing dependencies.
